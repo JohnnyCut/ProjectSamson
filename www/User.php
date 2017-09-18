@@ -4,6 +4,7 @@ Class User // déclaration de la classe en fonction du nom de la table de la DB
 {
     private $mysqli ; // cet attribut sert à stocker la connexion à la base de données
     /*
+	blablabla
     le constructeur ici sert à créer la connexion à la base de données et
     à l'assigner à l'attribut $mysqli grace à la méta-variable "$this" utilisée comme suit : $this->mysqli
 
